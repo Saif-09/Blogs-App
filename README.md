@@ -5,7 +5,7 @@ It provides user to add or delete blogs, User's blog will not be deleted on brow
 
 Visit Live site on -> https://placement-cell-webapplication.onrender.com/
 
-<img width="960" alt="Sign In Page" src="https://i.ibb.co/g60rfmn/Screenshot-6.png">
+<img width="960" alt="SS" src="https://i.ibb.co/g60rfmn/Screenshot-6.png">
 
 <img width="960" alt="Sign Up Page" src="https://ibb.co/N70FJt4">
 
