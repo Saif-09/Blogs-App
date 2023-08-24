@@ -5,11 +5,11 @@ It provides user to add or delete blogs, User's blog will not be deleted on brow
 
 Visit Live site on -> https://placement-cell-webapplication.onrender.com/
 
-<img width="960" alt="Blog" src="https://i.ibb.co/g60rfmn/Screenshot-6.png">
+<img width="630" alt="Blog" src="https://i.ibb.co/g60rfmn/Screenshot-6.png">
 
-<img width="960" alt="Blogs SS" src="https://ibb.co/N70FJt4">
+<img width="630" alt="Blogs SS" src="https://i.ibb.co/H4yQNsC/Screenshot-7.png">
 
-<img width="960" alt="Home Page" src="https://ibb.co/N70FJt4">
+<img width="630" alt="Home Page" src="https://i.ibb.co/ZSFLFZ2/Screenshot-8.png">
 
 
 # FEATURES
