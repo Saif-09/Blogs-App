@@ -3,7 +3,7 @@
 A Blog App made using ReactJS, Firebase and Tailwind CSS
 It provides user to add or delete blogs, User's blog will not be deleted on browser refresh because the data is connected with Firebase Service.
 
-Visit Live site on -> https://blogsapp-react.netlify.app//
+Visit Live site on -> https://blogsapp-react.netlify.app/
 
 <img width="630" alt="Blog" src="https://i.ibb.co/g60rfmn/Screenshot-6.png">
 
