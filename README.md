@@ -1,8 +1,29 @@
-# React + Vite
+# Blogs App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Blog App made using ReactJS, Firebase and Tailwind CSS
+It provides user to add or delete blogs, User's blog will not be deleted on browser refresh because the data is connected with Firebase Service.
 
-Currently, two official plugins are available:
+Visit Live site on -> https://placement-cell-webapplication.onrender.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="960" alt="Sign In Page" src="https://ibb.co/N70FJt4">
+
+<img width="960" alt="Sign Up Page" src="https://ibb.co/N70FJt4">
+
+<img width="960" alt="Home Page" src="https://ibb.co/N70FJt4">
+
+
+# FEATURES
+
+- User can add write blogs
+- User can delete blogs.
+
+# TECH STACK
+
+React JS, Tailwind CSS, Firebase.
+
+# SETUP
+
+1) Run `npm install` command in the terminal to install required dependencies
+2) Then `npm run dev` command to start the project.
+
+
